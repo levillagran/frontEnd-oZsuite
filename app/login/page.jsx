@@ -10,7 +10,7 @@ export default function LoginPage() {
 
   const onSubmit = (e) => {
     e.preventDefault()
-    const ok = email.trim().toLowerCase() === "tester" && password === "tester"
+    const ok = email.trim().toLowerCase() === "tester@ozsuite.com" && password === "tester"
     if (!ok) {
       setError("Invalid credentials")
       return
