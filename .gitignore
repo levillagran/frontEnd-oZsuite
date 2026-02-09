@@ -1,0 +1,21 @@
+# Node & Next.js
+node_modules/
+.next/
+.next-dev2/
+dist/
+.turbo/
+.vercel/
+coverage/
+logs/
+
+# Env files
+.env
+.env.*
+.env.local
+.env.development
+.env.production
+
+# OS / misc
+.DS_Store
+npm-debug.log*
+yarn-error.log*

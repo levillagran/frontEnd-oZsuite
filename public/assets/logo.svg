@@ -1,0 +1,8 @@
+<svg width="360" height="140" viewBox="0 0 360 140" xmlns="http://www.w3.org/2000/svg">
+  <rect width="360" height="140" style="fill: var(--color-primary, #0A3D62)" />
+  <path d="M40 75 L90 35 L140 75 V120 H40 Z" style="fill: var(--color-secondary, #F39C12); stroke: var(--color-secondary, #F39C12); stroke-width: 4"/>
+  <path d="M30 75 L90 25 L150 75" fill="none" style="stroke: var(--color-surface, #FFFFFF); stroke-width: 10; stroke-linecap: round; stroke-linejoin: round"/>
+  <polyline points="60,85 80,105 115,70" fill="none" style="stroke: var(--color-surface, #FFFFFF); stroke-width: 14; stroke-linecap: round; stroke-linejoin: round"/>
+  <polyline points="60,85 80,105 115,70" fill="none" style="stroke: var(--color-primary, #0A3D62); stroke-width: 10; stroke-linecap: round; stroke-linejoin: round"/>
+  <text x="170" y="95" font-family="Arial" font-weight="700" font-size="52" style="fill: var(--color-surface, #FFFFFF)">OZSUITE</text>
+</svg>

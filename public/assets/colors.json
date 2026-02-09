@@ -1,0 +1,26 @@
+{
+  "variables": {
+    "--color-primary": "#0A3D62",
+    "--color-secondary": "#F39C12",
+    "--color-bg": "#F4F6F7",
+    "--color-text": "#2C3E50",
+    "--color-neutral": "#BDC3C7",
+    "--color-border": "#BDC3C7",
+    "--color-success": "#27AE60",
+    "--color-error": "#C0392B",
+    "--status-pending-bg": "#F1C40F",
+    "--status-pending-text": "#7D6608",
+    "--status-approved-bg": "#27AE60",
+    "--status-approved-text": "#145A32",
+    "--status-rejected-bg": "#E74C3C",
+    "--status-rejected-text": "#641E16",
+    "--status-converted-bg": "#3498DB",
+    "--status-converted-text": "#154360",
+    "--status-expired-bg": "#95A5A6",
+    "--status-expired-text": "#1B2631",
+    "--status-archive-bg": "gray",
+    "--status-archive-text": "white",
+    "--status-onhold-bg": "orange",
+    "--status-onhold-text": "orange"
+  }
+}
