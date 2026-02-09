@@ -2,11 +2,5 @@
   "version": 2,
   "env": {
     "API_URL": "https://backend-ozsuite-production.up.railway.app"
-  },
-  "proxies": [
-    {
-      "source": "/api/:path*",
-      "destination": "https://backend-ozsuite-production.up.railway.app/api/:path*"
-    }
-  ]
+  }
 }
